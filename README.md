@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arthur Amshukov.
 - 👀 I’m interested in Parsing theory, programming languages design, compilers' front end, lossless compression ...
-- 📫 How to reach me ... aamshukov@gmail.com, Oakville, Ontario, Canada
+- 📫 How to reach me ... aamshukov@gmail.com
 
 <!---
 aamshukov/aamshukov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
