@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arthur Amshukov.
-- 👀 I’m interested in Parsing theory, programming languages design, compilers' front end, lossless compression ...
+- 👀 I’m interested in Parsing theory, programming languages design, compilers' front ends and lossless compression ...
 - 📫 How to reach me ... aamshukov@gmail.com
 
 <!---
